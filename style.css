@@ -3,10 +3,10 @@ body {
 }
 h1 {
   
-  color: black;
+  color: blue;
   font-size: 25px;
   text-align: center;
-  background-color: white;
+  background-color: orange;
   border: 3px black dashed;
   letter-spacing: 1px;
   font-family: calibri;
@@ -15,7 +15,7 @@ h1 {
 }
 
 iframe{
-  border: solid white 2px;
+  border: solid orange 3px;
 }
 
 .navbar{
