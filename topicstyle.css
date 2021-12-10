@@ -1,12 +1,18 @@
-h1{
+h1 {
   
-  text-align: center;
   color: blue;
+  font-size: 25px;
+  text-align: center;
+  background-color: orange;
+  border: 3px black dashed;
+  letter-spacing: 1px;
+  font-family: calibri;
+  
+  
 }
-
 body{
   
-  background-color: white;
+  background-color: green;
 }
 
 .navbar{
@@ -31,4 +37,33 @@ body{
 .navbar a:hover {
   background-color: green;
 }
+
+img{
+  
+  border: solid orange 5px;
+}
+p{
+  margin: 5px;
+  color: orange;
+  font-size: 17px;
+}
+
+table {
+  border: 1px solid blue;
+  color: Orange;
+    border-collapse: collapse;
+  padding: 10px;
+  width: 35%;
+}
+
+tr, td, th {
+  border: 1px solid blue;
+  border-collapse: collapse;
+  padding: 10px;
+  text-align: center;
+}
+
+tr:nth-child(even):hover {background-color: red;}
+d;}
+
 
